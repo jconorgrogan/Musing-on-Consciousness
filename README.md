@@ -2,6 +2,8 @@
 
 Here is my scratch pad for my latest/greatest thoughts on some of the core open questions about conciousness:
 
+**I. Conciousness and structural memory**
+
 - Consciousness remains poorly defined and not fully understood, especially regarding what specifically distinguishes human consciousness from animal awareness or cognition.
 
 - Humans consistently display robust markers of consciousness distinct from other animals—for instance, humans reliably pass the mirror self-recognition test, while animals generally fail or pass only inconsistently or situationally.
