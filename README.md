@@ -33,12 +33,12 @@ Checklist on what we want to build out over time:
 
 ## II. Consciousness as Recursive Retrieval of Context-Invariant Representations
 
-- Extending the idea from Rey et al. (2025), consciousness might fundamentally depend on the brain's ability to access stable, context-invariant neural representations—not only for the "self," but also for lower-level concepts such as objects, people, places, and, also, emotions.
+- Building on Rey et al. (2025), human consciousness might fundamentally depend on the brain’s capacity for accessing stable, context-invariant neural representations—extending beyond the high-level sense of "self" to include lower-level concepts such as objects, people, places, and emotions; essentially bundles of relationships of different concepts.
 
-- Conscious experience could thus arise from the process of retrieving these invariant representations repeatedly and recursively, with each retrieval implicitly referencing previous retrieval events.
+- Consciousness emerges through a recursive retrieval mechanism: each act of awareness involves not just accessing these invariant representations but also implicitly comparing the current retrieval with previous retrieval experiences of the same representation.
 
-- Each conscious act becomes a comparison: the brain assesses current retrieval against prior retrievals of the same stable representation. This recursive referencing occurs across multiple hierarchical levels—from simple concepts to the abstract concept of "self."
+- Each conscious experience thus entails a subtle internal referencing process—comparing the present neural state against previously stored invariant neural templates. This recursive comparison unfolds across multiple hierarchical scales, from basic emotional states (e.g., "happiness") to complex abstract identities (e.g., "self," "friend," or "home").
 
-- Subjective feeling ("what it is like") emerges naturally from this internal referencing process, as the brain continuously evaluates how current experience aligns or contrasts with past retrieval episodes, generating a rich, consistent sense of awareness.
+- The subjective quality ("what it feels like") of consciousness naturally arises from this ongoing internal referencing process, as the brain continually evaluates how well current experiences align or diverge from past experiences of similar states, producing a coherent and consistent sense of awareness.
 
-- Thus, human consciousness is distinguished from animal awareness by the systematic, internal, and recursive referencing of stable, context-invariant representations, creating a continuous, coherent subjective experience across time.
+- Consequently, human consciousness differs fundamentally from animal awareness by virtue of this recursive, internal fractal of comparisons—continuously referencing context-invariant neural codes to maintain subjective coherence and identity continuity over time.
