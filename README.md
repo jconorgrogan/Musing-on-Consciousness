@@ -3,6 +3,7 @@
 Here is my scratch pad for my latest/greatest thoughts on some of the core open questions about consciousness:
 
 **Intro**
+
 Checklist on what we want to build out over time:
 - [ ] **Definition and Boundaries**: What exactly constitutes "consciousness," and how can it be empirically distinguished from unconscious cognition?
 - [ ] **The Hard Problem**: Why does subjective experience (qualia)—"what it’s like"—arise at all from physical neural processes?
