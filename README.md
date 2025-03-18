@@ -2,20 +2,6 @@
 
 Here is my scratch pad for my latest/greatest thoughts on some of the core open questions about consciousness:
 
-**Intro**
-
-Checklist on what we want to build out over time:
-- [ ] **Definition and Boundaries**: What exactly constitutes "consciousness," and how can it be empirically distinguished from unconscious cognition?
-- [ ] **The Hard Problem**: Why does subjective experience (qualia)—"what it’s like"—arise at all from physical neural processes?
-- [ ] **Neural Correlates and Mechanisms**: Which neural structures or coding patterns uniquely give rise to consciousness, and what distinguishes them from similar neural activities that do not?
-- [ ] **Human vs. Animal Consciousness**: What specific neural or cognitive mechanisms clearly separate human consciousness from animal awareness or cognition?
-- [ ] **Context and Invariance**: Why and how does consciousness maintain a stable, context-independent quality across changing sensory inputs, memories, and experiences?
-- [ ] **Self and Identity**: How does consciousness produce and preserve the consistent subjective sense of "self," despite continuous physical, psychological, and environmental change?
-- [ ] **Recursive Retrieval**: Could recursive processes—such as memory retrieval referencing previous retrievals—explain the subjective continuity and depth of conscious experience?
-- [ ] **Levels of Awareness**: What differentiates conscious experiences from subconscious or unconscious neural processing, and how does the brain "choose" what reaches awareness?
-- [ ] **Emergence and Evolution**: How and why did consciousness emerge evolutionarily, and what adaptive advantage does subjective experience provide?
-- [ ] **Testability and Falsifiability**: How can a theory of consciousness be empirically tested, measured, or potentially falsified scientifically?
-
 # Musing-on-Consciousness
 
 ## I. Consciousness and Structural Memory
@@ -69,3 +55,20 @@ Checklist on what we want to build out over time:
 
 - **Integration into identity:** Finally, this recursively experienced sadness integrates into your stable identity:  
   _"I'm someone who experiences sadness about this."_ This subtly updates and stabilizes your ongoing sense of self, embedding this emotional event into your long-term identity narrative, which you hold as your "concept" of broader self
+
+
+
+**To-Do**
+
+Checklist on what we want to build out over time:
+- [ ] **Definition and Boundaries**: What exactly constitutes "consciousness," and how can it be empirically distinguished from unconscious cognition?
+- [ ] **The Hard Problem**: Why does subjective experience (qualia)—"what it’s like"—arise at all from physical neural processes?
+- [ ] **Neural Correlates and Mechanisms**: Which neural structures or coding patterns uniquely give rise to consciousness, and what distinguishes them from similar neural activities that do not?
+- [ ] **Human vs. Animal Consciousness**: What specific neural or cognitive mechanisms clearly separate human consciousness from animal awareness or cognition?
+- [ ] **Context and Invariance**: Why and how does consciousness maintain a stable, context-independent quality across changing sensory inputs, memories, and experiences?
+- [ ] **Self and Identity**: How does consciousness produce and preserve the consistent subjective sense of "self," despite continuous physical, psychological, and environmental change?
+- [ ] **Recursive Retrieval**: Could recursive processes—such as memory retrieval referencing previous retrievals—explain the subjective continuity and depth of conscious experience?
+- [ ] **Levels of Awareness**: What differentiates conscious experiences from subconscious or unconscious neural processing, and how does the brain "choose" what reaches awareness?
+- [ ] **Emergence and Evolution**: How and why did consciousness emerge evolutionarily, and what adaptive advantage does subjective experience provide?
+- [ ] **Testability and Falsifiability**: How can a theory of consciousness be empirically tested, measured, or potentially falsified scientifically?
+
