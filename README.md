@@ -30,7 +30,9 @@ Here is my scratch pad for my latest/greatest thoughts on some of the core open 
 
 - Consequently, human consciousness diverges fundamentally from animal awareness through this fractal-like internal referencing mechanism—continuously comparing present neural states against context-invariant memory codes to sustain subjective coherence and continuous identity across time.
 
-### Illustrative Example:
+### III. The self arrising from infinite recursion of these invariant connections
+
+Illustrative Example:
 
 - **Stable present state**  
   You’re sitting calmly at your desk, feeling neutral. Your brain maintains a stable representation:  
