@@ -32,29 +32,47 @@ Here is my scratch pad for my latest/greatest thoughts on some of the core open 
 
 ### Illustrative Example:
 
-- **Stable present state:** You're sitting calmly at your desk, feeling neutral. Your brain maintains a stable representation:  
-  _"I am calm, working, feeling fine."_
+- **Stable present state**  
+  You’re sitting calmly at your desk, feeling neutral. Your brain maintains a stable representation:  
+  *“I am calm, working, feeling fine.”*
 
-- **External trigger:** You glance at a photograph of someone you once loved but no longer speak with. Visual cortex processing sends signals inward.
+- **External trigger**  
+  You glance at a photograph of someone you once loved but no longer speak with. Visual cortex processing sends signals inward.
 
-- **Retrieval of past self-memory:** Your medial temporal lobe (hippocampus/amygdala) instantly retrieves a stable, context-invariant neural representation tied to this person:  
-  _"I was happy but later deeply sad when this relationship ended."_
+- **Retrieval of past self-memory**  
+  Your medial temporal lobe (hippocampus/amygdala) instantly retrieves a stable, context-invariant neural representation tied to this person:  
+  *“I was happy but later deeply sad when this relationship ended.”*
 
-- **Initial mismatch (present vs past):** Your brain implicitly compares the stable current state ("calm, neutral") with the retrieved past state ("initially happy, subsequently sad"). This discrepancy shifts your emotional state from neutral toward sadness.
+- **Initial mismatch (present vs. past)**  
+  Your brain implicitly compares the stable current state (“calm, neutral”) with the retrieved past state (“initially happy, subsequently sad”). This discrepancy shifts your emotional state from neutral toward sadness.
 
-- **Emergence of sadness as stable concept:** Your brain generates a distinct neural representation of your emerging emotional state:  
-  _"I am becoming sad right now."_ This itself becomes stable and context-invariant.
+- **Emergence of sadness as stable concept**  
+  Your brain generates a distinct neural representation of your emerging emotional state:  
+  *“I am becoming sad right now.”*  
+  This itself becomes stable and context-invariant.
 
-- **Recursive referencing:** Your brain now compares this newly-forming sadness with previously encoded sadness memories, asking internally:  
-  _"How does this current sadness match previous feelings of sadness?"_
+- **Recursive referencing**  
+  Your brain now compares this newly forming sadness with previously encoded sadness memories, asking internally:  
+  *“How does this current sadness match previous feelings of sadness?”*
 
-- **Deepening or modulation of emotion:** The recursive comparison modulates your emotional experience. A strong match ("This feels exactly how I felt losing something precious") intensifies sadness. A weaker resonance allows emotional intensity to stabilize or diminish faster.
+- **Deepening or modulation of emotion**  
+  The recursive comparison modulates your emotional experience. A strong match (*“This feels exactly how I felt losing something precious”*) intensifies sadness. A weaker resonance allows emotional intensity to stabilize or diminish faster.
 
-- **Conscious emotional awareness:** This ongoing recursive referencing creates conscious subjective awareness—you explicitly realize and feel:  
-  _"I'm genuinely sad,"_ due to continuous referencing against prior sadness templates.
+- **Self-model entanglement**  
+  Crucially, these reverberations include a self-referential tag:  
+  *“This sadness is happening to me.”*  
+  Your brain’s self-model continuously integrates the emotion into the sense of “I.” This is where the waves of neural activation stop being mere signals and become your subjective feeling—because they’re tethered to a conception of “self” that treats them as your sadness.
 
-- **Integration into identity:** Finally, this recursively experienced sadness integrates into your stable identity:  
-  _"I'm someone who experiences sadness about this."_ This subtly updates and stabilizes your ongoing sense of self, embedding this emotional event into your long-term identity narrative, which you hold as your "concept" of broader self
+- **Conscious emotional awareness**  
+  This ongoing recursive referencing—now anchored in the self-model—creates conscious subjective awareness. You explicitly realize and feel:  
+  *“I’m genuinely sad,”*  
+  due to continuous referencing against prior sadness templates and the active self-representation.
+
+- **Integration into identity**  
+  Finally, this recursively experienced sadness updates your stable identity representation:  
+  *“I’m someone who experiences sadness about this.”*  
+  This subtly modifies your ongoing sense of self, embedding the emotional event into your long-term narrative of who you are.
+
 
 
 
