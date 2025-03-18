@@ -30,10 +30,7 @@ Here is my scratch pad for my latest/greatest thoughts on some of the core open 
 
 - Consequently, human consciousness diverges fundamentally from animal awareness through this fractal-like internal referencing mechanism—continuously comparing present neural states against context-invariant memory codes to sustain subjective coherence and continuous identity across time.
 ### III. The Self Arising from Infinite Recursion of These Invariant Connections
-
-## III. The Self Arising from Infinite Recursion of These Invariant Connections
-
-- **Stable present state**  
+ **Stable present state**  
   You’re sitting calmly at your desk, feeling neutral. Your brain maintains a stable representation:  
   *“I am calm, working, feeling fine.”*
 
@@ -75,10 +72,10 @@ Here is my scratch pad for my latest/greatest thoughts on some of the core open 
   This subtly modifies your ongoing sense of self, embedding the emotional event into your long-term narrative of who you are.
 
 - **Addressing the Hard Problem**  
-  By framing subjective emotion as an “infinite recursion” of stable, context-invariant representations bound to a self-model, this model proposes that what we call “feeling” arises precisely when those recursive echoes are tagged with *my* sadness. While it doesn’t resolve *why* such tagging yields a *felt* quality, it suggests that continuous loops anchored in a robust concept of “I” may be key to bridging functional processing and lived, subjective experience.  
+  By framing subjective emotion as an “infinite recursion” of stable, context-invariant representations bound to a self-model, this model proposes that what we call “feeling” arises precisely when those recursive echoes are tagged with *my* sadness. While it doesn’t resolve *why* such tagging yields a *felt* quality, it suggests that continuous loops anchored in a robust concept of “I” may be key to bridging functional processing and lived, subjective experience.
 
 - **Further Extension**  
-  This approach can be pushed one step further by suggesting that once the loops “close over themselves” and form a vantage point—the *I*—the brain doesn’t just run the process; it *becomes* the process. Viewing the self as a stable world-facing perspective entangled with the signals it processes could clarify why mere loops turn into *felt* loops. Still, the exact mechanism that transforms this entanglement into “what it is like” remains a philosophical and scientific frontier.
+  This approach can be pushed one step further by suggesting that once the loops “close over themselves” and form a vantage point—the *I*—the brain doesn’t just run the process; it *becomes* the process. 
 
 **To-Do**
 
