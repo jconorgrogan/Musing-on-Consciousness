@@ -50,22 +50,20 @@ Your medial temporal lobe (hippocampus/amygdala) instantly retrieves a stable, c
 ---
 
 **Initial Mismatch (Present vs. Past)**  
-Your brain implicitly compares the stable current state (“calm, neutral”) with the retrieved past state (“initially happy, subsequently sad”).
-
+Your brain implicitly compares the stable current state (“calm, neutral”) with the retrieved past state (“initially happy, subsequently sad”).  
 This discrepancy shifts your emotional state from neutral toward sadness.
 
 ---
 
 **Emergence of Sadness as Stable Concept**  
 A distinct neural representation of your emerging emotional state is formed:  
-> “I am becoming sad right now.”
-
-This too becomes stable and context-invariant, so it can be repeatedly referenced.
+> “I am becoming sad right now.”  
+This, too, becomes stable and context-invariant, allowing repeated referencing.
 
 ---
 
 **Recursive Referencing**  
-Your brain now compares this newly forming sadness with previously encoded sadness memories, asking internally:  
+Your brain compares this new sadness with previously encoded sadness memories, asking:  
 > “How does this current sadness match previous feelings of sadness?”
 
 ---
@@ -73,40 +71,38 @@ Your brain now compares this newly forming sadness with previously encoded sadne
 **Deepening or Modulation of Emotion**  
 The recursive comparison modulates your emotional experience.  
 - A strong match (“This feels exactly like I felt losing something precious”) intensifies sadness.  
-- A weaker resonance allows it to stabilize or fade more quickly.
+- A weaker resonance allows it to stabilize or diminish faster.
 
 ---
 
 **Self-Model Entanglement**  
 These reverberations include a self-referential tag:  
-> “This sadness is happening to me.”
-
-By labeling the emotion as *yours*, the system pins it to an internal vantage point, rather than simply processing data.
+> “This sadness is happening to me.”  
+By labeling the emotion as *yours*, the system merges the emotional signal with an internal vantage point, moving it beyond mere data processing.
 
 ---
 
 **Conscious Emotional Awareness**  
-Ongoing recursive referencing—anchored in that self-model—creates subjective awareness. You explicitly realize and feel:  
+Ongoing recursive loops—now anchored in the self-model—produce subjectivity. You explicitly realize:  
 > “I’m genuinely sad,”  
-because the activation is both repeated and inextricably bound to your sense of “I.”
+because the neural activation is inseparably tied to your sense of “I.”
 
 ---
 
 **Reflexive Vantage**  
-Crucially, these loops observe themselves from within. There isn’t an external observer watching your sadness; the loops *are* the sadness. By merging memory comparisons with “I” labeling, the system cannot be further externalized. **This inward vantage is where raw sensation—what it’s *like*—arises.**
+Crucially, there is no separate “observer” standing outside. The loops that encode and retrieve sadness *are* the feeling itself, folded back into the sense of “I.” This inward vantage is where raw sensation—what it’s *like*—arises.
 
 ---
 
 **Integration into Identity**  
-Finally, the experienced sadness updates your stable identity representation:  
-> “I’m someone who feels sadness about this.”
-
-That emotional event settles into your long-term narrative, subtly shaping who you are moving forward.
+The experienced sadness updates your stable identity representation:  
+> “I’m someone who feels sadness about this.”  
+It settles into your long-term narrative, subtly shaping who you are moving forward.
 
 ---
 
 **Bridging Toward the ‘Hard Problem’**  
-Where previous steps outline *how* your brain’s self-referential loops might produce “sadness,” the *why* it becomes *felt* rather than merely processed hinges on the formation of an irreducible first-person vantage. In other words, once these loops fold back into an inescapable sense of “I,” the process *is* lived experience for that system.
+Although we can trace *how* self-referential loops produce sadness, *why* it becomes felt rather than merely processed remains linked to the inescapable first-person vantage. Once those loops fully absorb the signal into “I,” the process becomes lived experience rather than external computation.
 
 
 **To-Do**
